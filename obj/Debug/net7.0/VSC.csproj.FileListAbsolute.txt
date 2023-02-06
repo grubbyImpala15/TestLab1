@@ -1,0 +1,15 @@
+C:\Users\19738\OneDrive\Desktop\VSC\bin\Debug\net7.0\VSC.exe
+C:\Users\19738\OneDrive\Desktop\VSC\bin\Debug\net7.0\VSC.deps.json
+C:\Users\19738\OneDrive\Desktop\VSC\bin\Debug\net7.0\VSC.runtimeconfig.json
+C:\Users\19738\OneDrive\Desktop\VSC\bin\Debug\net7.0\VSC.dll
+C:\Users\19738\OneDrive\Desktop\VSC\bin\Debug\net7.0\VSC.pdb
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.csproj.AssemblyReference.cache
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.AssemblyInfoInputs.cache
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.AssemblyInfo.cs
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.dll
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\refint\VSC.dll
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.pdb
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\VSC.genruntimeconfig.cache
+C:\Users\19738\OneDrive\Desktop\VSC\obj\Debug\net7.0\ref\VSC.dll
